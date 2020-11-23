@@ -27,4 +27,5 @@ main () {
 			printf("%d, %d, %d", c, b, a);
 		}
 	}
+	return 0;
 }
